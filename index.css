@@ -1,0 +1,21 @@
+/* CSS Sections are separated by section, as defined in index.html */
+body {
+    height: 100%;
+    width: 100%;
+}
+
+/* HEADER */
+.header {
+    height: 500px;
+    background-image: url('images/header.jpg');
+    background-size: cover;
+    background-position: relative;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+h1 {
+    
+}
